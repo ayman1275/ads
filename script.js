@@ -1,4 +1,4 @@
-```javascript
+
 (function () {
   const n = document;
   const o = n.head;
@@ -196,4 +196,3 @@ if (document.readyState === "loading") {
 } else {
   antiAdBlockerHandler();
 }
-```
